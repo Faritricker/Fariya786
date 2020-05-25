@@ -61,9 +61,11 @@ logo = """
 \033[1;94m                     █▀░ █▀█ █▀▄ █   █▄▀ █▀█ █▀▄ █░█ 
                                                             
 \033[1;96m❋❈╭┳✪✪╤──────────────────────────────────────➛➢
-\033[1;96m💀💀║\033[1;32mAuthor : \033[1;32mPrince-choco
-\033[1;96m💀💀║\033[1;32mCreate by : \033[1;32mTech-Abm
-\033[1;96m💀💀║\033[1;32mFacebook : \033[1;32mhttps://www.facebook.com/chocoxkainat
+\033[1;96m💀💀║\033[1;32mCREATOR : \033[1;32mFARIYA KHAN
+\033[1;96m💀💀║\033[1;32mINSTA   : \033[1;32mitz_fariya28
+\033[1;96m💀💀║\033[1;32mFB ID   : \033[1;32mhttps://m.facebook.com/itzfariya786
+\033[1;96m💀💀║\033[1;32mWARNING : \033[1;32mIM NOT RESPONSIBLE FOR ANY MISS USE
+\033[1;96m💀💀║\033[1;32mWARNING : \033[1;32mNOT FOR SALE IF SELLING INFROM ME ON FB OR INSTA
 \033[1;96m❋❈╰┻✪✪╧─────────────────────────────────────➛➢"""
 
 def tik():
@@ -84,9 +86,11 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print """
 \033[1;96m❋❈╭┳✪✪╤──────────────────────────────────────➛➢
-\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mFARIYA KHAN
-\033[1;96m♚♚║\033[1;32mFACEBOOK : \033[1;32mhttps://www.facebook.com/itzfariya786
-\033[1;96m♚♚║\033[1;32mWARNING  : \033[1;32mI M NOT RESPONSIBLE FOR ANY MISS USE
+\033[1;96m💀💀║\033[1;32mCREATOR : \033[1;32mFARIYA KHAN
+\033[1;96m💀💀║\033[1;32mINSTA   : \033[1;32mitz_fariya28
+\033[1;96m💀💀║\033[1;32mFB ID   : \033[1;32mhttps://m.facebook.com/itzfariya786
+\033[1;96m💀💀║\033[1;32mWARNING : \033[1;32mIM NOT RESPONSIBLE FOR ANY MISS USE
+\033[1;96m💀💀║\033[1;32mWARNING : \033[1;32mNOT FOR SALE IF SELLING INFROM ME ON FB OR INSTA
 \033[1;96m❋❈╰┻✪✪╧─────────────────────────────────────➛➢"""
 
 CorrectUsername = "FARIYA"
@@ -117,7 +121,8 @@ def login():
 		print logo
 		jalan(' \033[1;91mWarning: \033[1;93mDo Not Use Your Personal Account' )
 		jalan(' \033[1;91mWarning: \033[1;93mUse a New Account To Login' )
-		jalan(' \033[1;91mWarning: \033[1;93mJoin Our Fb Group 0.63✅' )                 
+		jalan(' \033[1;91mWarning: \033[1;93mJoin Our Fb Group 0.63✅' )     
+		jalan(' \033[1;91mWarning: \033[1;93mNOT FOR SALE IF SELLING INFROM ME ON FB OR INSTA' )
 	
 		print('	   \033[1;91m♡\x1b[1;91m▬▬▬▬▬●LOGIN WITH FACEBOOK●▬▬▬▬▬\x1b[1;91m♡' )
 		print('	' )
